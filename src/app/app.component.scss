@@ -1,0 +1,19 @@
+header{
+    background-color: blue;
+    color:  white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem;
+    
+    
+    nav{
+        button{
+            padding: 0.5rem;
+            color: blue;
+            font-size: 1rem;
+            margin-right: 1rem;
+        }
+    }
+
+}
